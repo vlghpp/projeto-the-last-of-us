@@ -60,11 +60,7 @@ main:after{
 	align-items: center;
 	min-height: 100vh;
 }
-.menu-lateral ul{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
+
 .menu-lateral .icone{
     width: 30px;
     filter: invert(1);
